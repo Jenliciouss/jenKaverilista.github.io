@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+}
+
+h1 {
+    
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    background-color: #d3fcff;
+    padding: 5px 10px;
+}
+
+#nimet {
+    max-width: 550px;
+    background-color: #ffd3ed;
+    margin-top: 20px;
+}
+
+li {
+    background-color: #ffd3ed;
+    margin: 5px;
+}
+
+.container {
+    padding-top: 15px;
+    display:inline-block;
+    max-width: 550px;
+    background-color: #ffd3ed;
+}
+
+.navbar {
+    display:inline-block;
+    
+
+}
+
+nav a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    background-color: #d3fcff;
+}
